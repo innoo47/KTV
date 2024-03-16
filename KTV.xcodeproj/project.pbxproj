@@ -16,6 +16,7 @@
 		B2D80FFB2BA55B95005FB3A8 /* KTVTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D80FFA2BA55B95005FB3A8 /* KTVTests.swift */; };
 		B2D810052BA55B95005FB3A8 /* KTVUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D810042BA55B95005FB3A8 /* KTVUITests.swift */; };
 		B2D810072BA55B95005FB3A8 /* KTVUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D810062BA55B95005FB3A8 /* KTVUITestsLaunchTests.swift */; };
+		B2D810142BA56070005FB3A8 /* Color.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2D810132BA56070005FB3A8 /* Color.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B2D810002BA55B95005FB3A8 /* KTVUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KTVUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2D810042BA55B95005FB3A8 /* KTVUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KTVUITests.swift; sourceTree = "<group>"; };
 		B2D810062BA55B95005FB3A8 /* KTVUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KTVUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B2D810132BA56070005FB3A8 /* Color.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Color.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				B2D80FE72BA55B94005FB3A8 /* ViewController.swift */,
 				B2D80FE92BA55B94005FB3A8 /* Main.storyboard */,
 				B2D80FEC2BA55B95005FB3A8 /* Assets.xcassets */,
+				B2D810132BA56070005FB3A8 /* Color.xcassets */,
 				B2D80FEE2BA55B95005FB3A8 /* LaunchScreen.storyboard */,
 				B2D80FF12BA55B95005FB3A8 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2D80FED2BA55B95005FB3A8 /* Assets.xcassets in Resources */,
+				B2D810142BA56070005FB3A8 /* Color.xcassets in Resources */,
 				B2D80FF02BA55B95005FB3A8 /* Base in Resources */,
 				B2D80FEB2BA55B94005FB3A8 /* Base in Resources */,
 			);
